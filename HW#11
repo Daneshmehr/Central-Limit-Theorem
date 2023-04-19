@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
-import numpy as np
-%matplotlib inline
 
 # Set the rate parameter
 lambd = 0.5
