@@ -1,0 +1,1 @@
+The Central Limit Theorem indicates that the normalized sum (i.e. the arithmetic mean) of random variables, each independently sampled from the same distribution, will asymptotically follow a Gaussian distribution. 
