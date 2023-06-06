@@ -1,4 +1,4 @@
-# PHSX815_Week10
+#The Central Limit Theorem
 
 The Central Limit Theorem states that as the sample size increases, the distribution of the sample means approaches a normal distribution regardless of the distribution of the population. This means that even if the population distribution is not normal, the distribution of the sample means will become normal as the sample size increases.
 
